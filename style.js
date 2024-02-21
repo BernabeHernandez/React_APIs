@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   },
   card: {
     marginBottom: 16,
-    backgroundColor: '#E0E0E0', // Cambia el color de fondo según tus preferencias
+    backgroundColor: '#E0E0E0',
     borderRadius: 8,
     elevation: 3,
     shadowColor: '#000',
